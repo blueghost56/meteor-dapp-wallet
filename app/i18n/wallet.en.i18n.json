@@ -55,7 +55,7 @@
                 "title": "Select an account"
             },
             "testnetWallet": {
-                "walletNeedsDeployment": "You seem to be on a testnet.<br><br>There is no original wallet contract code found.  We need to deploy one, which can be used by the wallet contract stub contracts, from your address: <br><br><small><code>__account__</code></small><br><br><em>Please make sure this address has at least 1 tlot!</em>",
+                "walletNeedsDeployment": "You on TLOT-NET.<br><br>There is no original wallet contract code found.  We need to deploy one, which can be used by the wallet contract stub contracts, from your address: <br><br><small><code>__account__</code></small><br><br><em>Please make sure this address has at least 1 tlot!</em>",
                 "testnetWalletDeployed": "Original wallet contract deployed!<br>An original wallet contract was deployed on the address:<br><br><small><code>__address__</code></small>."
             },
             "addToken": {
@@ -107,8 +107,8 @@
                     "title": "Backup your wallet contract address!",
                     "description": "Make sure to write down the wallet contract address:"
                 },
-                "copyAddressWarning": "<strong>Warning:</strong> you are on the Test Network. Be careful not to transfer real funds to this account.",
-                "buttonOk": "Copy anyway",
+                "copyAddressWarning": "<strong>Info:</strong> Copy successfully!",
+                "buttonOk": "OK",
                 "buttonCancel": "Nevermind.."
             }
         },

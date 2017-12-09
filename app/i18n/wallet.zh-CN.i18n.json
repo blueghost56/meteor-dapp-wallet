@@ -55,7 +55,7 @@
                 "title": "选择一个账户"
             },
             "testnetWallet": {
-                "walletNeedsDeployment": "您似乎在 testnet 上。<br><br>没有发现任何原始钱包的合约代码，我们需要再您的地址里部署一个，可用于钱包合同，存根合同：<br><br><small><code>__account__</code></small><br><br><em>请确认该这地址至少有一个万联币！</em>",
+                "walletNeedsDeployment": "您在 TLOT-NET 上。<br><br>没有发现任何原始钱包的合约代码，我们需要再您的地址里部署一个，可用于钱包合同，存根合同：<br><br><small><code>__account__</code></small><br><br><em>请确认该这地址至少有一个万联币！</em>",
                 "testnetWalletDeployed": "原始钱包已经部署了！<br>一个原始钱包的部署地址：<br><br><small><code>__address__</code></small>."
             },
             "addToken": {
